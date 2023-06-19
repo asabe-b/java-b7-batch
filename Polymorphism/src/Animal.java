@@ -6,7 +6,7 @@ public class Animal {
 	}
 
 	public static void main(String[] args) {
-		
+		int j = 200;
 		Animal a = new Animal();
 		Dog d = new Dog();
 		Cat c = new Cat();
